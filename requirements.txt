@@ -1,0 +1,8 @@
+feature-engine >= 1.6.*
+jupyter
+matplotlib >= 3.8.*
+numpy >= 1.26.*
+pandas >=2.*,<3
+pyarrow >= 15.*
+scikit-learn >= 1.4.*
+seaborn >= 0.13.*

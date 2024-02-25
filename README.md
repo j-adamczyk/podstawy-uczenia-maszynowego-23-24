@@ -3,12 +3,6 @@
 ## Spis treści
 
 * [Modele liniowe](lab1)
-* [Metody oparte o sąsiedztwo](lab2)
-* [Metody jądrowe](lab3)
-* [Metody probabilistyczne](lab4)
-* [Klasyfikacja niezbalansowana i anomaly detection](lab5)
-* [Prognozowanie szeregów czasowych](lab6)
-* [Selekcja cech i redukcja wymiarowości](lab7)
 
 ## Zasady zaliczania laboratoriów
 
@@ -17,8 +11,8 @@
 2. Warunkiem zaliczenia indywidualnych ćwiczeń laboratoryjnych jest uzyskanie minimum 5 punktów z tych ćwiczeń. 
    Punkty za zadania dodatkowe są uwzględniane tylko wtedy, gdy uzyskano zaliczenie z każdych indywidualnych ćwiczeń.
 3. Warunkiem uzyskania zaliczenia z przedmiotu jest zaliczenie wszystkich indywidualnych ćwiczeń laboratoryjnych.
-4. Rozwiązanie indywidualnych ćwiczeń (z wyjątkiem ostatnich ćwiczeń) musi zostać wysłane na MS Teams lub na maila podanego przez prowadzącego 
-   w ciągu 2 tygodni od laboratoriów, na których zostało zadane, do godz. 23:59.
+4. Rozwiązanie indywidualnych ćwiczeń (z wyjątkiem ostatnich ćwiczeń) musi zostać wysłane na MS Teams w ciągu 2 tygodni 
+   od laboratoriów, na których zostało zadane, do godz. 23:59, zgodnie z terminem podanym w zadaniu na MS Teams.
 5. Na laboratoriach 2-7 będzie przeprowadzona pisemna kartkówka z tematyki poprzedniego laboratorium oraz zadania. Z każdej kartkówki 
    można otrzymać 5 punktów. Nie ma minimalnej liczby punktów, które trzeba uzyskać w ramach kartkówek.
 6. Zgodnie z sylabusem, istnieje możliwość zamiany kartkówki na projekt indywidualny, w ramach którego należy zaimplementować 
@@ -30,8 +24,8 @@
 8. Poprzedni punkt o możliwości spóźnienia nie dotyczy sytuacji, w której student miał nieobecność nieusprawiedliwioną na zajęciach. 
    W takim wypadku zestaw z tego laboratorium, na którym student był nieobecny, można oddać jedynie w terminie podstawowym. W takiej 
    sytuacji z kartkówki (punkt 4) student otrzymuje zero punktów.
-9. W przypadku nieuzyskania zaliczenia z co najmniej jednego z ćwiczeń indywidualnych (uwzględniając termin spóźniony,
-   określony w pkt. 5), w pierwszym terminie zaliczenia przedmiotu wystawiana jest ocena niedostateczna. 
+9. W przypadku nieuzyskania zaliczenia z co najmniej jednego z ćwiczeń indywidualnych (w szczególności uwzględniając minimum 
+   punktowe z pkt. 2, oraz termin spóźniony z pkt. 5), w pierwszym terminie zaliczenia przedmiotu wystawiana jest ocena niedostateczna. 
 10. W przypadku nieuzyskania zaliczenia w pierwszym terminie możliwe jest uzyskanie zaliczenia w terminie poprawkowym, jeśli
    wszystkie brakujące ćwiczenia indywidualne zostaną ocenione pozytywnie do końca sesji poprawkowej.
 11. W przypadku uzyskania zaliczenia stosowana jest skala ocen AGH, tj.:
