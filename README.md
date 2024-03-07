@@ -29,18 +29,25 @@ Plik ten będzie systematycznie aktualizowany na potrzeby kolejnych laboratorió
 7. W przypadku spóźnienia się z oddaniem indywidualnych ćwiczenia można je wysłać ze spóźnieniem w ciągu kolejnych 2 tygodni. 
    Wtedy otrzymana liczba punktów jest mnożona przez 0.8, włącznie z ewentualnymi punktami za zadanie dodatkowe, zaokrąglona w górę 
    do najbliższego 0.25 punktu.
-8. Poprzedni punkt o możliwości spóźnienia nie dotyczy sytuacji, w której student miał nieobecność nieusprawiedliwioną na zajęciach. 
+8. Zestaw zadań przesłany w terminie znacznie wcześniejszym niż podstawowy może zostać odesłany z sugestiami poprawek. Taki zestaw 
+   może zostać przesłany ponownie, z uwzględnieniem tych poprawek. Zestawy przysłane blisko końca terminu oraz w terminie poprawkowym 
+   mogą zostać wysłane tylko raz, tj. nie ma możliwości ich poprawiania czy dosyłania zadań.
+9. Poprzedni punkt o możliwości spóźnienia nie dotyczy sytuacji, w której student miał nieobecność nieusprawiedliwioną na zajęciach. 
    W takim wypadku zestaw z tego laboratorium, na którym student był nieobecny, można oddać jedynie w terminie podstawowym. W takiej 
    sytuacji z kartkówki (punkt 4) student otrzymuje zero punktów.
-9. W przypadku nieuzyskania zaliczenia z co najmniej jednego z ćwiczeń indywidualnych (w szczególności uwzględniając minimum 
+10. W ramach zadań mogą pojawić się odpowiednio oznaczone zadania dodatkowe. Punkty z tych zadań są dodatkowe, tj. wliczają się do 
+   sumy uzyskanych punktów (licznika), ale nie do mianownika.
+11. Zadania dodatkowe można dosłać w terminie podstawowym lub poprawkowym, nawet jeżeli został już wysłany podstawowy zestaw. Stanowi 
+    to wyjątek od reguły z punktu 8. W przypadku przesłania go w terminie poprawkowym punkty są redukowane zgodnie z opisem w punkcie 7.
+12. W przypadku nieuzyskania zaliczenia z co najmniej jednego z ćwiczeń indywidualnych (w szczególności uwzględniając minimum 
    punktowe z pkt. 2, oraz termin spóźniony z pkt. 5), w pierwszym terminie zaliczenia przedmiotu wystawiana jest ocena niedostateczna. 
-10. W przypadku nieuzyskania zaliczenia w pierwszym terminie możliwe jest uzyskanie zaliczenia w terminie poprawkowym, jeśli
+13. W przypadku nieuzyskania zaliczenia w pierwszym terminie możliwe jest uzyskanie zaliczenia w terminie poprawkowym, jeśli
    wszystkie brakujące ćwiczenia indywidualne zostaną ocenione pozytywnie do końca sesji poprawkowej.
-11. W przypadku uzyskania zaliczenia stosowana jest skala ocen AGH, tj.:
+14. W przypadku uzyskania zaliczenia stosowana jest skala ocen AGH, tj.:
    * `50-59` pkt. - ocena 3 (dst)
    * `60-69` pkt. - ocena 3,5 (+dst)
    * `70-79` pkt. - ocena 4 (db)
    * `80-89` pkt. - ocena 4,5 (+db)
    * `>= 90` pkt. - ocean 5 (bdb)
-12. Zgodnie z sylabusem, jeżeli pozytywną ocenę z laboratorium i zaliczenia wykładu uzyskano w pierwszym terminie 
+15. Zgodnie z sylabusem, jeżeli pozytywną ocenę z laboratorium i zaliczenia wykładu uzyskano w pierwszym terminie 
     oraz ocena końcowa jest mniejsza niż 5.0 to ocena końcowa jest podnoszona o 0.5.
