@@ -4,6 +4,14 @@
 
 * [Modele liniowe](lab1)
 
+## Setup
+
+Zależności potrzebne do wykonania notebooków znajdują się w pliku `requirements.txt`. Najpierw trzeba utworzyć środowisko 
+wirtualne (venv), do czego polecam użyć PyCharma. Później w terminalu trzeba upewnić się, że środowisko jest aktywowane
+(w PyCharmie jest to automatyczne). Instalacja komendą:
+```pip install -r requirements.txt```
+Plik ten będzie systematycznie aktualizowany na potrzeby kolejnych laboratoriów.
+
 ## Zasady zaliczania laboratoriów
 
 1. Jest 7 laboratoriów, z każdego laboratorium można otrzymać 10 punktów oraz ewentualnie punkty za zadanie dodatkowe, 
