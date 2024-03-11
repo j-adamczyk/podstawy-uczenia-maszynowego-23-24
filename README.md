@@ -3,6 +3,7 @@
 ## Spis treści
 
 * [Modele liniowe](lab1)
+* [Metody oparte o sąsiedztwo](lab2)
 
 ## Setup
 
