@@ -2,8 +2,9 @@
 
 ## Spis treści
 
-* [Modele liniowe](lab1)
-* [Metody oparte o sąsiedztwo](lab2)
+* [Modele liniowe (linear models)](lab1)
+* [Metody oparte o sąsiedztwo (neighborhood-based methods)](lab2)
+* [Metody jądrowe (kernel methods)](lab3)
 
 ## Setup
 
