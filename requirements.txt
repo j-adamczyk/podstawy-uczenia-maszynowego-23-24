@@ -1,8 +1,15 @@
-feature-engine >= 1.6.*
+--extra-index-url https://download.pytorch.org/whl/cpu
+feature-engine >= 1.7.*
+imbalanced-learn >= 0.12.*
 jupyter
 matplotlib >= 3.8.*
 numpy >= 1.26.*
 pandas >=2.*,<3
 pyarrow >= 15.*
+pynndescent >= 0.5.*
+pyod >= 1.1.*
 scikit-learn >= 1.4.*
 seaborn >= 0.13.*
+torch >= 2.2.*
+sentence-transformers >= 2.5.*
+xgboost >= 2.0.*

@@ -6,6 +6,7 @@
 * [Metody oparte o sąsiedztwo (neighborhood-based methods)](lab2)
 * [Metody jądrowe (kernel methods)](lab3)
 * [Metody probabilistyczne](lab4)
+* [Klasyfikacja niezbalansowana i outlier detection](lab5)
 
 ## Setup
 
