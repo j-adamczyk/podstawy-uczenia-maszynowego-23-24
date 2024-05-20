@@ -8,6 +8,7 @@
 * [Metody probabilistyczne](lab4)
 * [Klasyfikacja niezbalansowana i outlier detection](lab5)
 * [Selekcja cech i redukcja wymiarowości](lab6)
+* [Prognozowanie szeregów czasowych](lab7)
 
 ## Setup
 
