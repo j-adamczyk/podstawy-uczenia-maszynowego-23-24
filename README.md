@@ -10,6 +10,9 @@
 * [Selekcja cech i redukcja wymiarowości](lab6)
 * [Prognozowanie szeregów czasowych](lab7)
 
+Dodatkowe laboratoria:
+* [Klasteryzacja](lab_bonus_clustering)
+
 ## Setup
 
 Zależności potrzebne do wykonania notebooków znajdują się w pliku `requirements.txt`. Najpierw trzeba utworzyć środowisko 
